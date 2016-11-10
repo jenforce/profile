@@ -1127,7 +1127,7 @@
 		}
 
 	header {
-		margin-bottom: 2em;
+		/*margin-bottom: 2em;*/
 	}
 
 		header .byline {
@@ -1375,9 +1375,9 @@
 			}
 
 	#imageSize{
-		width: 10%;
-				height: 10%;
+				width: 20%;
 				border-radius: 100%;
+				margin:auto;
 
 	}
 
@@ -1462,11 +1462,11 @@
 			}
 
 			.homepage #header-wrapper {
-				padding: 6em 0 6em 0;
+				/*padding: 6em 0 6em 0;*/
 			}
 
 			.wrapper {
-				padding: 6em 0 6em 0;
+				padding: 2em 0 6em 0;
 			}
 
 		/* Header */
