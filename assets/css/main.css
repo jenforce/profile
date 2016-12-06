@@ -1374,13 +1374,6 @@
 				border-radius: 100%;
 			}
 
-	#imageSize{
-				width: 30%;
-				border-radius: 100%;
-				margin:auto;
-
-	}
-
 		#logo h1 {
 			text-transform: uppercase;
 			font-weight: 900;
@@ -1688,7 +1681,7 @@
 					position: absolute;
 					top: 0;
 					right: 0;
-					font-size: 1.3em;
+					font-size: 0.3em;
 					padding: 0;
 					margin: 0;
 				}
@@ -2226,5 +2219,17 @@
 				#highlights section.first {
 					margin-top: 0 !important;
 				}
+
+}
+
+	.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+
+	#imageSize{
+				width: 45%;
+				border-radius: 100%;
+				margin:auto;
 
 	}
